@@ -13,9 +13,9 @@ body {
   border-radius: 39px;
 }
 .ex {
-  text-shadow: 23px;
-  font-size: 19;
-  letter-spacing: 45;
+  margin: 20px;
+  padding: 10px;
+  border: 5px solid rgb(52, 51, 51);
 }
 .cont {
   width: 80%;
