@@ -1,0 +1,23 @@
+body {
+  background-color: beige;
+  color: 0f141e;
+
+  font-size: 18px;
+  font-weight: normal;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.ava {
+  width: 800px;
+  border-radius: 39px;
+}
+.ex {
+  text-shadow: 23px;
+  font-size: 19;
+  letter-spacing: 45;
+}
+.cont {
+  width: 80%;
+  margin: auto;
+}
