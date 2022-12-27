@@ -1,0 +1,46 @@
+body {
+  background-color: beige;
+
+  font-size: 18px;
+  font-weight: normal;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.href .ava {
+  width: 800px;
+  border-radius: 39px;
+}
+.ex {
+  margin: 40px;
+  padding: 10px;
+  border: 5px solid rgb(52, 51, 51);
+}
+.cont {
+  width: 80%;
+  margin: auto;
+}
+.hp {
+  text-align: right;
+  float: center;
+}
+.block {
+  background: rgb(192, 236, 211);
+}
+.exp > div {
+  background: red;
+  height: 80px;
+  width: 25%;
+  float: left;
+  border: 16px solid blue;
+  padding: 1px;
+  box-sizing: border-box;
+}
+.padding {
+  margin: 20px;
+}
+.padding2 {
+  margin: 100px;
+}
+.textcenter {
+  text-align: center;
+}
